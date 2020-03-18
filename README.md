@@ -14,8 +14,11 @@
 
 由于近段时间政策变动，企业证书不断被封停。
 市场上开发出一种新的签名方式，超级签名。
-![](https://uploader.shimo.im/f/6rjR959y2OEWE6By.png)
-超级签名
+
+惯例，先上效果图：
+![](https://raw.githubusercontent.com/wiki/oopww1992/ios-super-Sign/1.jpg)
+![](https://raw.githubusercontent.com/wiki/oopww1992/ios-super-Sign/2.jpg)
+
 
 签名原理
 签名原理简单点说使用了苹果提供给开发者的Ad-Hoc分发通道，把安装设备当做开发设备进行分发。
